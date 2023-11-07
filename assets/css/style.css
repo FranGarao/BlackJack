@@ -1,0 +1,64 @@
+ *{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+ }
+
+.carta {
+    width: 120px;
+    position: relative;
+  left: 100px;
+  margin-left: -75px;
+}
+
+ body {
+    margin: 0;
+    background-color: #2f4f30;
+    color: white;
+    min-height: 100vh;
+}
+
+html {
+    margin: 0;
+    background-color: #2f4f30;
+    color: white;
+}
+
+.titulo {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+#btn-group {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.btn {
+margin: 0 10px;
+color: white;
+padding: 8px;
+border-radius: 8px;
+
+}
+
+.btn-red {
+    background-color: rgb(189, 16, 16);
+}
+.btn-blue {
+    background-color: rgb(12, 12, 192);
+}
+
+.mt-2{
+    margin-top: 80px !important;
+}
+
+#computadora-cartas{
+height: 220px;
+}
+
+#jugador-cartas {
+    height: 200px;
+}
